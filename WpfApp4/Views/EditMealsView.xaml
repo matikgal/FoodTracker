@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="FoodTracker.Views.EditMealsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FoodTracker.Views"
+             mc:Ignorable="d" Width="Auto" Height="Auto">
+    <UserControl.Resources>
+        <Style x:Key="RoundedContainerStyle" TargetType="Border">
+            <Setter Property="Background" Value="#bba737"/>
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="30,10"/>
+        </Style>
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="Black" BorderThickness="1" CornerRadius="20" Padding="10" Background="Transparent">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Margin" Value="10"/>
+            <!-- Nowy setter dla szerokości przycisków -->
+            <Setter Property="Width" Value="120"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <!-- Zmieniona szerokość pierwszej kolumny na Auto -->
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Prostokąt dla estetyki -->
+        <Border Style="{StaticResource RoundedContainerStyle}" Grid.Column="0" Width="268">
+            <!-- Pusty prostokąt -->
+        </Border>
+
+        <!-- DataGrid dla edycji posiłków -->
+        <DataGrid Name="grid" Margin="10" Grid.Column="1" Background="Gray" />
+
+        <!-- Przyciski -->
+        <StackPanel VerticalAlignment="Top" Margin="20" Grid.Column="0">
+            <Button Content="Add" Style="{StaticResource RoundedButtonStyle}" Click="AddButton_Click"  Width="160" Height="45" Margin="0,15,0,25"/>
+            <Button Content="Delete" Style="{StaticResource RoundedButtonStyle}" Click="DeleteButton_Click"  Width="160" Height="45" Margin="0,0,0,25"/>
+            <Button Content="Update" Style="{StaticResource RoundedButtonStyle}"  Width="160" Height="45" Margin="0,0,0,25"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

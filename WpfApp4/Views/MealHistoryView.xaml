@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="FoodTracker.Views.MealHistoryView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FoodTracker.Views"
+             xmlns:viewModel="clr-namespace:FoodTracker.ViewModels"
+             mc:Ignorable="d" Width="Auto" Height="Auto">
+
+    <UserControl.DataContext>
+        <viewModel:MealHistoryViewModel/>
+    </UserControl.DataContext>
+
+    <UserControl.Resources>
+        <!-- Nowy styl dla przycisków z zaokrąglonymi rogami -->
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="Black" BorderThickness="1" CornerRadius="20" Padding="10" Background="Transparent">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- StackPanel z DatePicker -->
+        <StackPanel VerticalAlignment="Top" Margin="20">
+            <DatePicker x:Name="DataPicker" SelectedDateChanged="DataPicker_SelectedDateChanged" Margin="0,0,0,20" />
+        </StackPanel>
+
+        <!-- DataGrid dla historii posiłków -->
+        <DataGrid Name="grid" Margin="10" Grid.Column="1" Background="Gray" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="FoodTracker.AddMealView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddMealWindow" Height="400" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Choose a Meal:" />
+            <ComboBox x:Name="MealComboBox" DisplayMemberPath="MealName"  SelectionChanged="MealComboBox_SelectionChanged"/>
+
+            <Label Content="Meal Name:" />
+            <TextBox x:Name="MealNameTextBox" />
+
+            <Label Content="Meal Weight:" />
+            <TextBox x:Name="MealWeightTextBox" />
+
+            <Label Content="Kcal:" />
+            <TextBox x:Name="KcalTextBox" />
+
+            <Label Content="Protein:" />
+            <TextBox x:Name="ProteinTextBox" />
+
+            <Label Content="Carbohydrates:" />
+            <TextBox x:Name="CarbohydratesTextBox" />
+
+            <Label Content="Fats:" />
+            <TextBox x:Name="FatsTextBox" />
+
+            <Button Content="Add Meal" Click="AddMealButton_Click" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

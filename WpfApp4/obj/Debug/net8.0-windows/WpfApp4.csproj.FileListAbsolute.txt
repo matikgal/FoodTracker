@@ -1,0 +1,376 @@
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Colors\Colors.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\App.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Colors\ButtonStyles.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Colors\ButtonStyles.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Colors\Colors.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\allBooksView.g.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\crudBooksView.g.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\statsBooksView.g.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\App.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\allBooksView.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\crudBooksView.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\statsBooksView.baml
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
+C:\Users\WinISO\Downloads\P4-main\WpfApp4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\allBooksView.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\statsBooksView.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\allBooksView.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\statsBooksView.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.sourcelink.json
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\AdonisUI.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\AddBooksView.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\AddBooksView.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\EditBookWindow.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\EditBookWindow.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\RentBookWindow.baml
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Views\RentBookWindow.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.exe
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.deps.json
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\AdonisUI.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Mindbox.Data.Linq.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Colors\ButtonStyles.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Colors\Colors.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\EditBookWindow.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\AddBooksView.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\AllBooksView.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\EditBookWindow.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\StatsBooksView.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\App.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\AddBooksView.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\AllBooksView.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\Views\StatsBooksView.baml
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.g.resources
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\refint\WpfApp4.dll
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.pdb
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\WinISO\Downloads\Nowy folder (2)\P4-main\WpfApp4\obj\Debug\net8.0-windows\ref\WpfApp4.dll
